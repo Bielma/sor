@@ -7,6 +7,7 @@
     "url": "https://github.com/jazibsawar/gatsby-blog-cosmicjs/issues"
   },
   "dependencies": {
+    "babel-plugin-styled-components": "^1.11.1",
     "disqus-react": "^1.0.10",
     "gatsby": "^2.24.80",
     "gatsby-background-image": "^1.1.1",
@@ -15,6 +16,7 @@
     "gatsby-plugin-offline": "^3.1.4",
     "gatsby-plugin-react-helmet": "^3.2.4",
     "gatsby-plugin-sharp": "^2.6.42",
+    "gatsby-plugin-styled-components": "^3.3.14",
     "gatsby-plugin-typography": "^2.4.3",
     "gatsby-source-cosmicjs": "^1.1.0",
     "gatsby-source-filesystem": "^2.2.4",
@@ -24,6 +26,8 @@
     "react-dom": "^16.13.1",
     "react-helmet": "^6.0.0",
     "react-typography": "^0.16.19",
+    "styled-components": "^5.2.0",
+    "styled-icons": "^10.22.0",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",
     "typography": "^0.16.19",
