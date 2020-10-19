@@ -33,8 +33,9 @@ exports.createPages = ({ graphql, actions }) => {
         }
 
         // Create blog posts pages.
+        console.log(result.data);
         const posts = result.data.allCosmicjsPosts.edges;
-
+        
         each(posts, (post, index) => {
           const next = index === posts.length - 1 ? null : posts[index + 1].node;
           const previous = index === 0 ? null : posts[index - 1].node;

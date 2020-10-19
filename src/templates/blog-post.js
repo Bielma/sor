@@ -8,10 +8,18 @@ import BackgroundImage from 'gatsby-background-image'
 import Bio from '../components/Bio'
 import Layout from '../components/layout'
 import { rhythm, scale } from '../utils/typography'
+import { DiscussionEmbed } from "disqus-react"
+
+
+export const disqusConfig = ({ slug, title }) => ({
+  shortname: 'sor-gtsb-io',
+  config: { identifier: slug, title },
+})
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.cosmicjsPosts
+    console.log(post.slug);
     const siteTitle = get(
       this.props,
       'data.cosmicjsSettings.metadata.site_title'
@@ -111,6 +119,10 @@ class BlogPostTemplate extends React.Component {
             </li>
           )}
         </ul>
+
+        
+          <DiscussionEmbed {...disqusConfig(post.id, post.title)} />
+        
       </Layout>
     )
   }
