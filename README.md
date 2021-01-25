@@ -1,5 +1,5 @@
 
-![Screen Shot](https://previews.dropbox.com/p/thumb/ABAd7kXJYWDnJh3H7rfoJvavetbEkKrT7mglCCmAbhO-jXcskquyJAbLZPhjlfAOPGoX0ilGQvLxXGivnwmjMfo3mFnLWsyRmSrCuO10FePPrBuwqx7JlKFEZ7czQs4vIx3oq2H3VD-F9xSj_MYjSAKgbld-3X7nuw_I6CExvk4Rbyx8B9xQpAWlL0Z0GOqS8VawFnPopsxX5kpiEwypp85mhbeaCYS1dBQc8UsbSGtE5-I-h3dFp0BsXikjdmlSoJDnv96DV29gVp1RApkMHITuYqvX58_L24qyQZpoGd-kc8fX3RWDW0nLfz-9BsfCBLC97n0IXjl4bwglBlwiDJmmNDBynFMtB8bxAtr20r4AZg/p.png?fv_content=true&size_mode=5)
+![Screen Shot](https://i.ibb.co/NKF7Tqx/Screenshot-2021-01-22-Sem-SOR.png)
 
 
 
